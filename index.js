@@ -8,7 +8,7 @@ const num2 = 31;
 let multiply = num1 * num2;
 
 
-let random = Math.ceil(Math.random()*163760)
+let random = Math.ceil(Math.random()*145670)
 
 console.log(random);
 
